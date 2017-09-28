@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Calculator
-//
-//  Created by CETYS on 28/09/17.
-//  Copyright © 2017 acerox. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
